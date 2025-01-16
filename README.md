@@ -14,7 +14,7 @@ This repository aims to provide a comprehensive reference for security professio
 ## Current Content
 
 ### Windows Command Reference
-The [Windows Command Reference for Security Analysis](./windows_command_reference.md) provides a categorized list of commands to assist in various phases of the security lifecycle:
+The [Windows Command Reference.md) provides a categorized list of commands to assist in various phases of the security lifecycle:
 - **System Information Gathering**
 - **Network Configuration and Connectivity**
 - **User Enumeration**
