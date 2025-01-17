@@ -36,4 +36,4 @@ This resource is designed to support:
 Contributions are welcome! If you have additional techniques, tools, or updates to share, feel free to open a pull request or create an issue.
 
 ## License
-This repository is licensed under the MIT License. See the [https://github.com/Manish041998/Security-Research/blob/57fdd651fdd37468c3b71c9ae45ac2d3648e0b58/LICENSE] file for more details.
+This repository is licensed under the MIT License. See the [(https://github.com/Manish041998/Security-Research/blob/57fdd651fdd37468c3b71c9ae45ac2d3648e0b58/LICENSE)] file for more details.
